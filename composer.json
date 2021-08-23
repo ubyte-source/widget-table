@@ -1,0 +1,26 @@
+{
+  "name": "widget/table",
+  "type": "library",
+  "description": "Javascript widget table",
+  "keywords": [
+    "ubyte",
+    "client-side",
+    "widget",
+    "table"
+  ],
+  "homepage": "https://github.com/energia-source/widget-table",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paolo Fabris",
+      "email": "support@ubyte.it",
+      "homepage": "https://www.ubyte.it/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Table\\": "lib/"
+    }
+  }
+}
