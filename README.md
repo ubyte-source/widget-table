@@ -30,15 +30,15 @@ document.appendChild(table);
 ## Structure
 
 library:
-    - [window.Table](https://github.com/energia-source/widget-table#class-windowtable-usable-methods)
-    - [window.Table.Colgroup](https://github.com/energia-source/widget-table#class-windowtablecolgroup-usable-methods)
-    - [window.Table.Colgroup.Col](https://github.com/energia-source/widget-table#class-windowtablecolgroupcol-usable-methods)
-    - [window.Table.Thead](https://github.com/energia-source/widget-table#class-windowtablethead-usable-methods)
-    - [window.Table.Tbody](https://github.com/energia-source/widget-table#class-windowtabletbody-usable-methods)
-    - [window.Table.Tfoot](https://github.com/energia-source/widget-table#class-windowtabletfoot-usable-methods)
-    - [window.Table.Tr](https://github.com/energia-source/widget-table#class-windowtabletr-usable-methods)
-    - [window.Table.Tr.Td](https://github.com/energia-source/widget-table#class-windowtabletrtd-usable-methods)
-    - [window.Table.Tr.Th](https://github.com/energia-source/widget-table#class-windowtabletrth-usable-methods)
+- [window.Table](https://github.com/energia-source/widget-table#class-windowtable-usable-methods)
+- [window.Table.Colgroup](https://github.com/energia-source/widget-table#class-windowtablecolgroup-usable-methods)
+- [window.Table.Colgroup.Col](https://github.com/energia-source/widget-table#class-windowtablecolgroupcol-usable-methods)
+- [window.Table.Thead](https://github.com/energia-source/widget-table#class-windowtablethead-usable-methods)
+- [window.Table.Tbody](https://github.com/energia-source/widget-table#class-windowtabletbody-usable-methods)
+- [window.Table.Tfoot](https://github.com/energia-source/widget-table#class-windowtabletfoot-usable-methods)
+- [window.Table.Tr](https://github.com/energia-source/widget-table#class-windowtabletr-usable-methods)
+- [window.Table.Tr.Td](https://github.com/energia-source/widget-table#class-windowtabletrtd-usable-methods)
+- [window.Table.Tr.Th](https://github.com/energia-source/widget-table#class-windowtabletrth-usable-methods)
 
 <br>
 
